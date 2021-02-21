@@ -1,11 +1,13 @@
 package es.studium.listas.ui.peliculas;
 
-class Peliculas {
+import java.io.Serializable;
+
+public class Peliculas implements Serializable {
     private final int imagenPelicula;
     private final String nombrePelicula;
     private final String directorPelicula;
     private String repartoPelicula;
-    private float clasificacionPelicula;
+    private static float clasificacionPelicula;
     private String sinopsisPelicula;
 
 
@@ -30,7 +32,7 @@ class Peliculas {
     public String getRepartoPelicula() {
         return repartoPelicula;
     }
-    public float getClasificacionPelicula() {
+    public static float getClasificacionPelicula() {
         return clasificacionPelicula;
     }
     public String getSinopsisPelicula() {

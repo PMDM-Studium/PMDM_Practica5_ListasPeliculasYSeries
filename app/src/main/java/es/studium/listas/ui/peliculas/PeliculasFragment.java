@@ -1,6 +1,7 @@
 package es.studium.listas.ui.peliculas;
 
 import android.app.Activity;
+import android.content.Context;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -55,6 +56,12 @@ public class PeliculasFragment extends Fragment {
                 peliculasInterface.enviarPelicula(listaPeliculas.get(recyclerViewPeliculas.getChildAdapterPosition(v)));
             }
         });
-
+    }
+    public void onAttach(Context context) {
+        super.onAttach(context);
+        if(context instanceof Activity){
+            this.activity= (Activity) context;
+            peliculasInterface= (PeliculasInterface) this.activity;
+        }
     }
 }

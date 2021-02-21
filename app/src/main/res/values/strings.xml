@@ -13,89 +13,89 @@
 
 
     <string name="nombrePelicula1">DeadPool</string>
-    <string name="directorPelicula1">Tim Miller</string>
-    <string name="repartoPelicula1">Ryan Reynolds, Morena Baccarin, Ed Skrein, Gina Carano, T. J. Miller, Brianna Hildebrand, Stefan Kapičić, Leslie Uggams, Karan Soni</string>
-    <string name="sinopsisPelicula1">Basada en el antihéroe más carismático de los cómics de Marvel, "Deadpool"
+    <string name="directorPelicula1">Director: Tim Miller</string>
+    <string name="repartoPelicula1">Reparto: Ryan Reynolds, Morena Baccarin, Ed Skrein, Gina Carano, T. J. Miller, Brianna Hildebrand, Stefan Kapičić, Leslie Uggams, Karan Soni</string>
+    <string name="sinopsisPelicula1">Sinopsis: Basada en el antihéroe más carismático de los cómics de Marvel, "Deadpool"
         relata la historia de Wade Wilson, un antiguo operativo de las fuerzas especiales convertido en mercenario.
         Tras ser el sujeto de un experimento que le otorga el poder de curación acelerada, adopta el alter ego de Deadpool.
         Armado con sus nuevas habilidades y un retorcido sentido del humor, Deadpool se propone dar caza al hombre que casi destruye su vida.</string>
 
     <string name="nombrePelicula2">El Señor de los Anillos</string>
-    <string name="directorPelicula2">Peter Jackson</string>
-    <string name="repartoPelicula2">Elijah Wood, Ian McKellen, Orlando Bloom, MÁS</string>
-    <string name="sinopsisPelicula2">La novela narra el viaje del protagonista principal, Frodo Bolsón, hobbit de la Comarca,
+    <string name="directorPelicula2">Director: Peter Jackson</string>
+    <string name="repartoPelicula2">Reparto: Elijah Wood, Ian McKellen, Orlando Bloom, MÁS</string>
+    <string name="sinopsisPelicula2">Sinopsis: La novela narra el viaje del protagonista principal, Frodo Bolsón, hobbit de la Comarca,
         para destruir el Anillo Único y la consiguiente guerra que provocará el enemigo para recuperarlo, ya que es la principal
         fuente de poder de su creador, el Señor oscuro, Sauron.</string>
 
     <string name="nombrePelicula3">Los Vengadores</string>
-    <string name="directorPelicula3">Joss Whedon</string>
-    <string name="repartoPelicula3">Robert Downey Jr., Chris Evans, Mark Ruffalo, Lou Ferrigno, Jeremy Renner,
+    <string name="directorPelicula3">Director: Joss Whedon</string>
+    <string name="repartoPelicula3">Reparto: Robert Downey Jr., Chris Evans, Mark Ruffalo, Lou Ferrigno, Jeremy Renner,
         Scarlett Johansson, Tom Hiddleston, Samuel L. Jackson, Cobie Smulders, Clark Gregg, Gwyneth Paltrow,
         Paul Bettany, Alexis Denisof, Jerzy Skolimowski,Powers Boothe,Harry Dean Stanton, Stan Lee</string>
-    <string name="sinopsisPelicula3">Marvel Studios presenta Los Vengadores de Marvel, el equipo de superhéroes
+    <string name="sinopsisPelicula3">Sinopsis: Marvel Studios presenta Los Vengadores de Marvel, el equipo de superhéroes
         por antonomasia formado por los icónicos personajes de Marvel Iron Man, el increíble Hulk, Thor, Capitán América,
         Ojo de Halcón y Viuda Negra. Tras la aparición repentina de un enemigo que amenaza con destruir la seguridad mundial,
         Nick Furia, director de la agencia de paz internacional S.H.I.E.L.D., decide formar un equipo capaz de salvar un mundo
         al borde del caos e inicia una labor de reclutamiento a nivel global</string>
 
     <string name="nombrePelicula4">Star Wars</string>
-    <string name="directorPelicula4">J. J. Abrams</string>
-    <string name="repartoPelicula4">Daisy Ridley, Adam Driver, Oscar Isaac, John Boyega, Carrie Fisher, Mark Hamill, Ian McDiarmid,
+    <string name="directorPelicula4">Director: J. J. Abrams</string>
+    <string name="repartoPelicula4">Reparto: Daisy Ridley, Adam Driver, Oscar Isaac, John Boyega, Carrie Fisher, Mark Hamill, Ian McDiarmid,
         Billy Dee Williams, Keri Russell, Richard E. Grant, Naomi Ackie, Daisy Ridley, Adam Driver, John Boyega, Kelly Marie Tran,
         Anthony Daniels, Oscar Isaac, Billie Lourd, Domnhall Gleeson, Lupita Nyong’o y Dominic Monaghan.</string>
-    <string name="sinopsisPelicula4">La Resistencia sobreviviente se enfrenta a la Primera Orden, y Rey, Finn, Poe y el resto
+    <string name="sinopsisPelicula4">Sinopsis: La Resistencia sobreviviente se enfrenta a la Primera Orden, y Rey, Finn, Poe y el resto
         de los héroes encararán nuevos retos y una batalla final con la sabiduría de las generaciones anteriores.</string>
 
     <string name="nombrePelicula5">Superman</string>
-    <string name="directorPelicula5">Zack Snyder</string>
-    <string name="repartoPelicula5">Sammi Rotibi, Henry Cavill, Ben Affleck, Gal Gadot, Amy Adams, Jesse Eisenberg, Michael Shannon,
+    <string name="directorPelicula5">Director: Zack Snyder</string>
+    <string name="repartoPelicula5">Reparto: Sammi Rotibi, Henry Cavill, Ben Affleck, Gal Gadot, Amy Adams, Jesse Eisenberg, Michael Shannon,
         Laurence Fishburne, Jason Momoa, Jeffrey Dean Morgan, Diane Lane, Jeremy Irons,Lauren Cohan y Holly Hunter.</string>
-    <string name="sinopsisPelicula5">Batman se enfrenta a Superman, temeroso de que su afán de poder termine nublando su lucha contra la
+    <string name="sinopsisPelicula5">Sinopsis: Batman se enfrenta a Superman, temeroso de que su afán de poder termine nublando su lucha contra la
         injusticia y lo convierta en un villano. Mientras los héroes pelean, una amenaza terrible se cierne sobre la humanidad.</string>
 
 
     <string name="nombreSerie1">The Mandalorian</string>
-    <string name="directorSerie1">Jon Favreau</string>
-    <string name="repartoSerie1">Pedro Pascal, Carl Weathers, Werner Herzog, Omid Abtahi, Nick Nolte, Taika Waititi, Gina Carano, Amy Sedaris,
+    <string name="directorSerie1">Director: Jon Favreau</string>
+    <string name="repartoSerie1">Reparto: Pedro Pascal, Carl Weathers, Werner Herzog, Omid Abtahi, Nick Nolte, Taika Waititi, Gina Carano, Amy Sedaris,
         Jake Cannavale, Ming-Na Wen, Mark Boone Junior, Bill Burr, Natalia Tena, Clancy Brown, Richard Ayoade, Ismael Cruz Córdova, Giancarlo Esposito</string>
     <string name="temporadasSerie1">Temporadas: 2</string>
-    <string name="sinopsisSerie1">Tras las historias de Jango y Boba Fett, otro guerrero emerge en el universo de Star Wars.
+    <string name="sinopsisSerie1">Sinopsis: Tras las historias de Jango y Boba Fett, otro guerrero emerge en el universo de Star Wars.
     El Mandaloriano se ubica tras la caída del Imperio y antes de que la Primera Orden surja.
     En la serie seguimos las aventuras de un pistolero solitario en los confines de la galaxia, lejos de la autoridad de la Nueva República</string>
 
     <string name="nombreSerie2">Doctor Who</string>
-    <string name="directorSerie2">Nick Hurran, Gary Russell, Euros Lyn y Graeme Harper</string>
-    <string name="repartoSerie2">Jodie Whittaker, Michelle Gomez, Mandip Gill, Tosin Cole, Bradley Walsh, Sharon D. Clarke, Naomi Ackie, Morven Christie,
+    <string name="directorSerie2">Director: Nick Hurran, Gary Russell, Euros Lyn y Graeme Harper</string>
+    <string name="repartoSerie2">Reparto: Jodie Whittaker, Michelle Gomez, Mandip Gill, Tosin Cole, Bradley Walsh, Sharon D. Clarke, Naomi Ackie, Morven Christie,
         Maisie Williams, Samuel Anderson, Pippa Bennett-Warner, Tessa Peake-Jones, Jenna Coleman, James Norton, Celia Imrie, David Bradley, Holli Dempsey,
         Karen Gillan, Matt Smith, Arthur Darvill, Peter Capaldi, Alex Kingston, David Tennant, John Simm, Freema Agyeman, Pearl Mackie,  John Barrowman,
         Billie Piper, Gugu Mbatha-Raw y Christopher Eccleston</string>
     <string name="temporadasSerie2">Temporadas: 11</string>
-    <string name="sinopsisSerie2">La serie narra las aventuras de un Señor del Tiempo conocido como «el Doctor», que explora el universo en su TARDIS,
+    <string name="sinopsisSerie2">Sinopsis: La serie narra las aventuras de un Señor del Tiempo conocido como «el Doctor», que explora el universo en su TARDIS,
         una nave espacial con conciencia propia capaz de viajar a través del tiempo y el espacio.</string>
 
     <string name="nombreSerie3">The Flash</string>
-    <string name="directorSerie3">Glen Winter</string>
-    <string name="repartoSerie3">Grant Gustin, Candice Patton, Danielle Panabaker, Stephen Amell, Carlos Valdes, Jesse L. Martin, Tom Cavanagh,Morena Baccarin, Danielle Nicolet,
+    <string name="directorSerie3">Director: Glen Winter</string>
+    <string name="repartoSerie3">Reparto: Grant Gustin, Candice Patton, Danielle Panabaker, Stephen Amell, Carlos Valdes, Jesse L. Martin, Tom Cavanagh,Morena Baccarin, Danielle Nicolet,
         Keiynan Lonsdale, Hartley Sawyer, John Wesley Shipp, Sendhil RamamurthyS, Eric Nenninger, Arturo del Puerto, Teddy Sears, Victor Garber, Peyton List, Wentworth Miller,
         Rick Cosnett, Jessica Parker Kennedy, Dominic Purcell, Violett Beane, Robbie Amell, Kim Engelbrecht, Shantel Van, Tom Felton, Chris Klein y Neil Sandilands</string>
     <string name="temporadasSerie3">Temporadas: 8</string>
-    <string name="sinopsisSerie3">Barry Allen perdió a su madre con tan sólo 11 años cuando fue asesinada y su padre cargo con el crimen, siendo condenado injustamente.
+    <string name="sinopsisSerie3">Sinopsis: Barry Allen perdió a su madre con tan sólo 11 años cuando fue asesinada y su padre cargo con el crimen, siendo condenado injustamente.
         Después de estar nueve meses en coma, Barry Allen se despierta y ya no es el mismo. El rayo le ha dotado de una velocidad sobrenatural.</string>
 
     <string name="nombreSerie4">Merlín</string>
-    <string name="directorSerie4">Julie Gardner</string>
-    <string name="repartoSerie4">Colin Morgan, Bradley James, Angel Coulby, Katie McGrath, Richard Wilson, Anthony Head y John Hurt</string>
+    <string name="directorSerie4">Director: Julie Gardner</string>
+    <string name="repartoSerie4">Reparto: Colin Morgan, Bradley James, Angel Coulby, Katie McGrath, Richard Wilson, Anthony Head y John Hurt</string>
     <string name="temporadasSerie4">Temporadas: 5</string>
-    <string name="sinopsisSerie4">Merlín (Colin Morgan) es un joven mago enviado al reino de Camelot por su madre para que se hospede con el médico de la corte, Gaius (Richard Wilson).
+    <string name="sinopsisSerie4">Sinopsis: Merlín (Colin Morgan) es un joven mago enviado al reino de Camelot por su madre para que se hospede con el médico de la corte, Gaius (Richard Wilson).
         Allí, descubre que el rey Uther Pendragon (Anthony Head) ha prohibido la magia y ha encarcelado al último dragón vivo en las profundidades del reino.</string>
 
     <string name="nombreSerie5">Héroes</string>
-    <string name="directorSerie5">Kevin Smith</string>
-    <string name="repartoSerie5">Milo Ventimiglia, Hayden Panettiere, Jack Coleman, Masi Oka, Adrian Pasdar, Zachary Quinto, Sendhil Ramamurthy, Greg Grunberg, James Kyson-Lee, Ali Larter,
+    <string name="directorSerie5">Director: Kevin Smith</string>
+    <string name="repartoSerie5">Reparto: Milo Ventimiglia, Hayden Panettiere, Jack Coleman, Masi Oka, Adrian Pasdar, Zachary Quinto, Sendhil Ramamurthy, Greg Grunberg, James Kyson-Lee, Ali Larter,
         Robert Knepper, Kristen Bell, Cristine Rose, Ashley Crow, Jimmy Jean-Louis, Noah Gray-Cabey, Santiago Cabrera, Thomas Dekker, George Takei, Madeline Zima, Stephen Tobolowsky, Ray Park,
         Robert Forster, Malcolm McDowell, Dania Ramirez, Dianna Agron y Holt McCallany</string>
     <string name="temporadasSerie5">Temporadas: 4</string>
-    <string name="sinopsisSerie5">Serie de TV (2006-2010). 4 temporadas. 78 episodios. Algunas personas nacen para ser extraordinarias. Un grupo de personas normales se ve, de la noche a la mañana,
+    <string name="sinopsisSerie5">Sinopsis: Serie de TV (2006-2010). 4 temporadas. 78 episodios. Algunas personas nacen para ser extraordinarias. Un grupo de personas normales se ve, de la noche a la mañana,
         dotada de increíbles poderes. Así, mientras en Japón un anónimo oficinista descubre que tiene un don para teletransportarse, en Nueva York un artista se da cuenta de que es capaz de pintar el futuro,
         o en Los Ángeles un policía puede escuchar los pensamientos ajenos. Estas personas no sólo tendrán que aprender a conocer sus poderes y a dominarlos, sino que además deberán decidir qué destino quieren darles.</string>
 </resources>

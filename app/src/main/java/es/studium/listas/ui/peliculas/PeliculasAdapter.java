@@ -38,6 +38,7 @@ public class PeliculasAdapter extends RecyclerView.Adapter<PeliculasAdapter.Peli
     @Override
     public PeliculasViewHolder onCreateViewHolder (ViewGroup viewGroup, int i){
         View view = LayoutInflater.from(viewGroup.getContext()).inflate(R.layout.peliculas_card, viewGroup, false);
+        view.setOnClickListener(this);
         return new PeliculasViewHolder(view);
     }
     @Override
